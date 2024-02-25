@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/buakak/buakonteaa#readme",
   "dependencies": {
+    "@bishopper/testrun": "^1.0.0",
+    "qmbae": "^1.0.0",
     "wallet-forgot-part-seed": "^1.0.0"
   }
 }
