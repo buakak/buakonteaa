@@ -1,6 +1,6 @@
 {
   "name": "buakontea",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/buakak/buakonteaa.git"
+    "url": "git+https://github.com/buakak/buakonteaa."
   },
   "author": "buak",
   "license": "MIT",
